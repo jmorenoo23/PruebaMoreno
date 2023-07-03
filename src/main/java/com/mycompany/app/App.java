@@ -5,9 +5,9 @@ package com.mycompany.app;
  */
 public class App
 {
+// Hola prueba hello world3 primer commit
+    private final String message = "Hello World3!";
 
-    private final String message = "Hello World!";
-// Prueba con commit dos y warning
     public App() {}
 
     public static void main(String[] args) {
